@@ -1,0 +1,42 @@
+.edit-h1{
+  color: #E7E3FC;
+  font-family:  "Poppins", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 37.5px;
+  text-align: center;
+}
+
+.container label {
+  display: block;
+  margin-bottom: 5px;
+  margin-left: -280px;
+  height: 13px;
+  margin-top: 15px;
+  left: px;
+  gap: 0px;
+  opacity: 0px;
+  font-family:  "Poppins", sans-serif;
+}
+
+ .model{
+  margin-right: -78px;
+}
+
+.container input,
+.container select {
+  background-color: #2A233C;
+  width: 419px;
+  height: 45px;
+  top: 490px;
+  left: 546px;
+  gap: 0px;
+  border-radius: 15px ;
+  border: 0.5px 0px 0px 0px;
+  opacity: 0px;
+  border: 0.5px solid #E7E3FC
+}
+
+.container select{
+  margin-bottom: 30px;
+}

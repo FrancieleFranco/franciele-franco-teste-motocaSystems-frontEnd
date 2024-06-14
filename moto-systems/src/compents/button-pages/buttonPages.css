@@ -1,0 +1,13 @@
+.bnt{
+  width: 418px;
+  height: 45px;
+ /* top: 540px;*/
+  margin-top: -10px;
+  left: 547px;
+  gap: 0px;
+  border-radius: 15px;
+  opacity: 0px;
+  color: #FFFFFF;
+  background: #3BADFB;
+  font-family:  "Poppins", sans-serif;
+}

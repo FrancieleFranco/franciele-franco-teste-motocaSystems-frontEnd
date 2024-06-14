@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /*margin-left: -70px;
+  margin-right: -70px;*/
+}
+
+.text {
+  flex: 1;
+  color: #E7E3FC;
+  font-family:  "Poppins", sans-serif;
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 37.5px;
+  text-align: left;
+  margin-top: 60px;
+}
+
+.img-vetor{
+  margin-right: 10px;
+}  
+
+.images-header{
+  margin-top: 5px;
+  margin-bottom: 50px;
+  /*margin-right: -100px;*/
+}
